@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-class Home_Page extends StatelessWidget {
+class HomePage extends StatelessWidget {
   Widget build(BuildContext context) {
     final int days = 30;
     final String name = "Govind Kumar";
